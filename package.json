@@ -1,0 +1,22 @@
+{
+  "name": "Parsley.js",
+  "version": "1.1.18",
+  "description": "[![Build Status](https://travis-ci.org/guillaumepotier/Parsley.js.png?branch=master)](https://travis-ci.org/guillaumepotier/Parsley.js)",
+  "main": "parsley.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/Parsley.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/Parsley.js/issues"
+  },
+  "homepage": "https://github.com/bolster/Parsley.js"
+}
